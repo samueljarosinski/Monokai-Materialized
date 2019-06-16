@@ -1,0 +1,23 @@
+<idea-plugin>
+  <id>color.scheme.Monokai Materialized</id>
+  <name>Monokai Materialized Color Scheme</name>
+  <version>1.0</version>
+  <vendor email="samueljarosinski@gmail.com" url="https://github.com/samueljarosinski/Monokai-Materialized">Samuel Jarosiński</vendor>
+
+  <description><![CDATA[
+      Color scheme inspired by Monokai, filled with Material Design colors.
+    ]]></description>
+
+  <change-notes><![CDATA[
+      Initial release.
+    ]]>
+  </change-notes>
+
+  <idea-version since-build="142.0"/>
+
+  <depends>com.intellij.modules.lang</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <bundledColorScheme path="/colors/Monokai Materialized"/>
+  </extensions>
+</idea-plugin>
