@@ -1,3 +1,3 @@
 #!/bin/bash
 
-jar cMf "Monokai Materialized.jar" META-INF/ colors/
+jar cMf "Monokai Materialized.jar" META-INF/ colors/ themes/

@@ -1,0 +1,223 @@
+{
+  "name": "Monokai Materialized",
+  "dark": true,
+  "author": "Samuel Jarosiński",
+  "editorScheme": "/colors/Monokai Materialized.xml",
+
+  "icons": {
+    "ColorPalette": {
+      "Actions.Blue": "#2196f3",
+      "Actions.Green": "#4caf50",
+      "Actions.Grey": "#9e9e9e",
+      "Actions.GreyInline": "#9e9e9e",
+      "Actions.GreyInline.Dark": "#616161",
+      "Actions.Red": "#f44336",
+      "Actions.Yellow": "#ffeb3b",
+
+      "Objects.Blue": "#2196f3",
+      "Objects.Green": "#4caf50",
+      "Objects.Grey": "#9e9e9e",
+      "Objects.Pink": "#e91e63",
+      "Objects.Purple": "#9c27b0",
+      "Objects.Red": "#f44336",
+      "Objects.Yellow": "#ffeb3b",
+
+      "Objects.RedStatus": "#f44336",
+      "Objects.YellowDark": "#fbc02d",
+      "Objects.BlackText": "#212121",
+
+      "Checkbox.Background.Default.Dark": "#212121"
+    }
+  },
+
+  "ui": {
+    "FileColor": {
+      "Blue": "#173461",
+      "Green": "#192C29",
+      "Orange": "#843911",
+      "Rose": "#551838",
+      "Violet": "#361B57",
+      "Yellow": "#302422"
+    },
+
+    "*": {
+      "separatorColor": "#212121"
+    },
+
+    "Button.background": "#212121",
+    "CheckBox.background": "#212121",
+    "CheckBoxMenuItem.background": "#212121",
+    "ColorChooser.background": "#212121",
+    "ComboBox.disabledBackground": "#212121",
+    "ComboBoxButton.background": "#212121",
+    "Content.background": "#212121",
+    "Editor.background": "#212121",
+    "EditorPane.background": "#212121",
+    "EditorPane.inactiveBackground": "#212121",
+    "Label.background": "#212121",
+    "Menu.background": "#212121",
+    "OptionPane.background": "#212121",
+    "Panel.background": "#212121",
+    "Popup.Toolbar.background": "#212121",
+    "PopupMenu.background": "#212121",
+    "ProgressBar.background": "#212121",
+    "RadioButton.background": "#212121",
+    "RadioButtonMenuItem.background": "#212121",
+    "ScrollPane.background": "#212121",
+    "SidePanel.background": "#212121",
+    "Slider.background": "#212121",
+    "Spinner.background": "#212121",
+    "SplitPane.background": "#212121",
+    "TabbedPane.background": "#212121",
+    "TableHeader.background": "#212121",
+    "TextArea.background": "#212121",
+    "TextField.background": "#212121",
+    "TextPane.background": "#212121",
+    "ToggleButton.background": "#212121",
+    "ToolBar.background": "#424242",
+    "ToolTip.background": "#212121",
+    "Viewport.background": "#212121",
+    "window": "#212121",
+
+    "NavBar.borderColor": "#212121",
+    "StatusBar.borderColor": "#212121",
+    "VersionControl.Log.Commit.currentBranchBackground": "#212121",
+
+    "ActionButton.pressedBackground": "#263238",
+    "CompletionPopup.selectionBackground": "#263238",
+    "Component.focusedBorderColor": "#263238",
+    "DebuggerTabs.selectedBackground": "#263238",
+    "Notification.background": "#263238",
+
+    "Component.borderColor": "#424242",
+    "ComboPopup.border": "#424242",
+
+    "Borders": {
+      "color": "#212121",
+      "ContrastBorderColor": "#212121"
+    },
+
+    "Button": {
+      "startBackground": "#424242",
+      "endBackground": "#424242",
+      "startBorderColor": "#424242",
+      "endBorderColor": "#424242",
+
+      "default": {
+        "startBackground": "#263238",
+        "endBackground": "#263238",
+        "startBorderColor": "#263238",
+        "endBorderColor": "#263238"
+      }
+    },
+
+    "ComboBox": {
+      "background": "#212121",
+      "ArrowButton.nonEditableBackground": "#212121",
+      "nonEditableBackground": "#212121"
+    },
+
+    "DefaultTabs": {
+      "background": "#212121",
+      "borderColor": "#212121",
+      "hoverBackground": "#4C5052",
+      "inactiveUnderlineColor": "#263238",
+      "underlineColor": "#263238"
+    },
+
+    "EditorTabs": {
+      "borderColor": "#212121",
+      "inactiveMaskColor": "#212121",
+      "selectedBackground": "#263238",
+      "underlineColor": "#263238",
+      "underlinedTabBackground": "#263238"
+    },
+
+    "List": {
+      "background": "#212121",
+      "selectionBackground": "#263238",
+      "selectionInactiveBackground": "#263238"
+    },
+
+    "Plugins": {
+      "SearchField": {
+        "background": "#212121",
+        "borderColor": "#212121"
+      },
+      "background": "#212121",
+      "SectionHeader.background": "#212121",
+      "tagBackground": "#212121",
+      "lightSelectionBackground": "#263238"
+    },
+
+    "Popup": {
+      "Header": {
+        "activeBackground": "#212121",
+        "inactiveBackground": "#212121"
+      },
+      "Advertiser": {
+        "background": "#212121",
+        "borderColor": "#212121"
+      }
+    },
+
+    "ProgressBar": {
+      "failedColor": "#f44336",
+      "passedColor": "#4caf50"
+    },
+
+    "SearchEverywhere": {
+      "Header.background": "#212121",
+      "SearchField.background": "#212121",
+      "SearchField.borderColor": "#212121",
+      "Tab.selectedBackground": "#263238",
+      "Advertiser.background": "#212121"
+    },
+
+    "Table": {
+      "background": "#212121",
+      "selectionBackground": "#263238",
+      "selectionInactiveBackground": "#263238"
+    },
+
+    "ToolWindow": {
+      "Button.selectedBackground": "#263238",
+      "Header": {
+        "inactiveBackground": "#212121",
+        "background": "#212121",
+        "borderColor": "#212121"
+      },
+      "HeaderTab": {
+        "selectedBackground": "#263238",
+        "selectedInactiveBackground": "#263238"
+      }
+    },
+
+    "Tree": {
+      "background": "#212121",
+      "selectionBackground": "#263238",
+      "selectionInactiveBackground": "#263238"
+    },
+
+    "UIDesigner": {
+      "Canvas.background": "#212121",
+      "Preview.background": "#212121",
+
+      "Panel": {
+        "background": "#212121",
+        "borderColor": "#212121"
+      }
+    },
+
+    "WelcomeScreen": {
+      "background": "#212121",
+      "separatorColor": "#212121",
+      "borderColor": "#212121",
+      "Projects": {
+        "background": "#212121",
+        "selectionBackground": "#263238",
+        "selectionInactiveBackground": "#263238"
+      }
+    }
+  }
+}

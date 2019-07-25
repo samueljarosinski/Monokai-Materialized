@@ -1,11 +1,13 @@
-<idea-plugin>
+<idea-plugin
+  url="https://github.com/samueljarosinski/Monokai-Materialized">
+
   <id>color.scheme.Monokai Materialized</id>
-  <name>Monokai Materialized Color Scheme</name>
-  <version>1.1</version>
+  <name>Monokai Materialized Theme</name>
+  <version>1.2</version>
 
   <vendor
     email="samueljarosinski@gmail.com"
-    url="https://github.com/samueljarosinski/Monokai-Materialized">
+    url="https://github.com/samueljarosinski">
     Samuel Jarosiński
   </vendor>
 
@@ -28,7 +30,16 @@
 
   <depends>com.intellij.modules.lang</depends>
 
-  <extensions defaultExtensionNs="com.intellij">
-    <bundledColorScheme path="/colors/Monokai Materialized" />
+  <extensions
+    defaultExtensionNs="com.intellij">
+
+    <bundledColorScheme
+      path="/colors/Monokai Materialized" />
+
+    <themeProvider
+      id="50e7efe7-41f5-41ad-b654-1bb5efaf6585"
+      path="/themes/Monokai Materialized.theme.json" />
+
   </extensions>
+
 </idea-plugin>
